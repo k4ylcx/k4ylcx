@@ -17,12 +17,6 @@ I enjoy building things that combine **technology and creativity**, from web app
 **Languages:**
 Python · C++ · JavaScript · GDScript · HTML · CSS
 
-## Interests
-
-I'm particularly interested in the intersection of **AI and education**. I'm curious about how AI can personalize learning, how students interact with AI as a learning tool, and where AI falls short compared to traditional teaching.
-
-I'm hoping to explore these questions further through software projects, research, and collaboration.
-
 ## Currently
 
 I'm currently focused on:
